@@ -1,0 +1,10 @@
+*{
+    margin:0px;
+    padding:0%;
+}
+#aside2{
+    width: 300px;
+    height: 100%;
+    float:right;
+    background-color: aqua;
+}

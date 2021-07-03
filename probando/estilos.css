@@ -1,0 +1,68 @@
+body{
+    background-color: turquoise;
+    background-image:url(fondo2.jpg);
+    background-repeat: repeat-y;
+    background-position: center top;
+    margin:0 auto;
+}
+
+#nav{
+    width:10%;
+    height: 500px;
+    background-image: url("fondo8.jpg");
+    float:left;
+    color:brown;
+    margin-top: 30px;
+    margin-left: 5px;
+    color:brown;
+}
+
+.punto{
+    color: rgb(20, 24, 24);
+}
+
+.link{
+    color:rgb(165, 108, 42);
+}
+
+#material{ 
+    border: 3px solid black;  
+    background-color: aquamarine;
+    color:blue;
+    font-size: 30px;
+    font-family: Times, serif;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 33%;
+}
+/*estilos descendiente que modifica la etiqueta strong dentro de estilos de clase antencion*/
+.atencion strong{
+    color:yellow;     
+}
+.borde{ 
+    border:rgb(175, 55, 25) solid 3px;
+}
+
+h1{
+    background-color: blueviolet;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#titulo{
+    padding-top: 10px;
+    margin-left: 33%;
+}
+
+#article{
+    
+    
+}
+
+p{
+    margin-left:33%;
+    width: 500px;
+}

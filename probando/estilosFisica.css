@@ -1,0 +1,34 @@
+.subtitulo{
+    color:blue;
+   
+}
+p{
+    font-family: cursive;
+    border-left:brown solid 20px;
+}
+body{
+    background-color: lightgreen;
+}
+#article{
+    width: 500px;
+    float: left;
+    margin-left: 400px;
+}
+#clasificacion{
+    font-size: 20px;
+    border-radius: 20px 3px 30px 3px;
+    background-color:darkblue;
+    color:darkorange;
+}
+h1{
+    text-align:center;
+    border-bottom:rgb(39, 28, 28) solid;
+    width:22%;
+    margin-left:33%;  
+}
+#aside{
+    background-color:rgb(16, 241, 84);
+    width: 326px;
+    height: 500px;
+    float:right;
+}
